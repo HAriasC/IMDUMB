@@ -1,0 +1,67 @@
+{
+  "project_info": {
+    "project_number": "243298356519",
+    "project_id": "imdumb-75481",
+    "storage_bucket": "imdumb-75481.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243298356519:android:ef1cadf7d46b38e7b5ed02",
+        "android_client_info": {
+          "package_name": "com.bks.imdumb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLViyi1xyCS7sq9mUGUji5yUJAIpgvbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243298356519:android:3691efe0e1bee7a2b5ed02",
+        "android_client_info": {
+          "package_name": "com.bks.imdumb.dev"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLViyi1xyCS7sq9mUGUji5yUJAIpgvbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:243298356519:android:845b2977617cb5b5b5ed02",
+        "android_client_info": {
+          "package_name": "com.bks.imdumb.qa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCLViyi1xyCS7sq9mUGUji5yUJAIpgvbRg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

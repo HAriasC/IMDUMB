@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.bks.imdumb.domain.usecase.GetHomeCategoriesUseCaseTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2026-06-16T20:30:15.816Z" hostname="MacBook-Pro-de-Henry.local" time="1.5">
+  <properties/>
+  <testcase name="execute should return error when repository fails" classname="com.bks.imdumb.domain.usecase.GetHomeCategoriesUseCaseTest" time="1.496"/>
+  <testcase name="execute should return combined categories when all calls succeed" classname="com.bks.imdumb.domain.usecase.GetHomeCategoriesUseCaseTest" time="0.003"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

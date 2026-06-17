@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">IMDUMB</string>
+    <string name="category_popular">Populares</string>
+    <string name="category_top_rated">Mejor Valoradas</string>
+    <string name="category_upcoming">Próximamente</string>
+    <string name="detail_rating">Calificación: %1$.1f</string>
+    <string name="detail_cast">Reparto</string>
+    <string name="detail_btn_recommend">Recomendar</string>
+    <string name="recommend_hint">Deja un comentario</string>
+    <string name="recommend_confirm">Confirmar</string>
+    <string name="recommend_success">¡Recomendación enviada con éxito!</string>
+    <string name="recommend_error_empty">Por favor escribe un comentario</string>
+    <string name="recommend_title">Recomendar Película</string>
+    <string name="recommend_share">Compartir</string>
+    <string name="share_subject">¡Te recomiendo esta película!</string>
+    <string name="error_generic">Error desconocido</string>
+    <string name="error_loading_details">Error al cargar detalles</string>
+    <string name="retry">Reintentar</string>
+</resources>
