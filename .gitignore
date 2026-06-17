@@ -1,15 +1,30 @@
+# Archivos de compilación
+build/
+*/build/
+.gradle/
+bin/
+gen/
+out/
+.kotlin/
+
+# IDE - Android Studio / IntelliJ
+.idea/
 *.iml
-.gradle
-/local.properties
-/.idea/caches
-/.idea/libraries
-/.idea/modules.xml
-/.idea/workspace.xml
-/.idea/navEditor.xml
-/.idea/assetWizardSettings.xml
-.DS_Store
-/build
-/captures
-.externalNativeBuild
-.cxx
+*.iws
+*.ipr
+.navigation/
+captures/
+.externalNativeBuild/
+.cxx/
+
+# Secretos y locales
 local.properties
+
+# NOTA: google-services.json NO se ignora en este reto para permitir compilación inmediata
+# app/google-services.json
+
+# Sistema
+.DS_Store
+Thumbs.db
+*.bak
+*.log
